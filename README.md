@@ -1,2 +1,2 @@
 # mohaalt12.github.io
-samples of Poets &amp; Wisdom and Sermons.
+Basic samples of Poets, Wisdom and Sermons.
