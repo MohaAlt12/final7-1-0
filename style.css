@@ -1,6 +1,6 @@
 @font-face{
 font-family: "Arabic";
-src: url("AligarhArabicLight1.otf") format("opentype");
+src("AligarhArabicLight1.otf") format("opentype");
 font-weight: normal;
 font-style: normal;
 font-display: swap;
