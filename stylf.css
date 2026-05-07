@@ -1,0 +1,27 @@
+@font-face{
+font-family: "Arabic";
+src: url("AligarhArabicLight1.otf") format("opentype");
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+.button2 {
+  background-color: #FFAF50;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: oline-block;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+#main-status{
+font-size: 40px; text-decoration: underline;	
+}
+
+.status{
+	font-size: 20px; font-style: italic; border: 1px solid #ddd; border-radius: 5px;
+	box-shadow: 0px 4px 4px rgba(180,180,180,1.5); padding: 5px 3px; display: inline-block;
+}
