@@ -1,0 +1,59 @@
+@font-face{
+font-family: "Arabic";
+src: url("AligarhArabicLight1.otf") format("opentype");
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+
+}
+
+body{
+	background-image: url('./box.jpg');
+    background-size: cover;
+    background-position: -10px 0px;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+    min-height: 100vh;
+    height: 700px;
+	filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+#main-clarification{
+color: #000402; direction: ltr; text-align: center; padding: 20px;
+font-size: 50px; font-family: Arabic ; border: 20px; border-radius: 10px;
+text-shadow: 0px 9px 4px #444aad;
+}
+
+#start{
+font-size: 28px; direction: rtl;	
+}
+
+#spaceimg{
+	margin-left: 240px;
+	margin-top: 50px;
+	background-size: 100px;
+	border: 50px sold #fff;
+	border-radius: 90px;
+	outline: 5px solid #002;
+	outline-offset: 0px;
+	box-shadow: 0px 12px rgba(10 ,20 ,20, 1.5)
+}
+
+.unknown2{
+	color: white; text-align: right; padding: 5px;
+}
+
+#unknown1{
+	color: white; text-align: right; padding: 500px;
+}
+
+.button {
+  background-color: #4CAF50;         
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
